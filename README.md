@@ -61,7 +61,7 @@ This project aims to solve these challenges by using SQL for data validation and
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](Image/Screenshot 2025-09-08 144324.png)
+![Dashboard](Image/Dashboard_Image..png)
 
 ---
 

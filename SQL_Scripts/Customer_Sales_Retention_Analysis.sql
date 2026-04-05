@@ -1,5 +1,5 @@
 /*
-Project: Customer Retention & Sales Trends Analysis
+Project: Customer Retention & Sales Analysis
 Author: Aditya Jadaun
 Description: 
 This script performs data validation, integrity checks, data aggregation, and generates key analytics for the Customer Retention and Sales Trends project.
